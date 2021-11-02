@@ -1,7 +1,7 @@
 Diego Collazos
 Eliana Cerquera
 
-command prompt must be on this dir ./Practica_1
+command prompt must be on this dir ./Diego_Eliana/Polimorfismo
 
 CLI guide:
 - Clean target: mvn clean
